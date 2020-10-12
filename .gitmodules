@@ -4,7 +4,7 @@
 	branch = master
 [submodule "amundsenfrontendlibrary"]
 	path = amundsenfrontendlibrary
-	url = https://github.com/amundsen-io/amundsenfrontendlibrary
+	url = https://github.com/jbomb53/amundsenfrontendlibrary
 	branch = master
 [submodule "amundsenmetadatalibrary"]
 	path = amundsenmetadatalibrary
